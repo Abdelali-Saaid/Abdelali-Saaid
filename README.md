@@ -6,7 +6,6 @@ and since then, I've been exploring various technologies and building meaningful
 
 ## What You'll Find Here
 - Projects: Explore my repositories for a variety of applications, tools, and experiments.
-- Contributions
 - Learning Journey: Follow along as I share my experiences.
 
 ## Current Focus
@@ -21,7 +20,7 @@ and since then, I've been exploring various technologies and building meaningful
 
 ## Get in Touch
 I'm always open to collaboration and new opportunities. <br>
-Feel free to reach out if you have any questions, ideas, or beneficial additions!<br>
+Feel free to reach out if you have any questions, ideas, or beneficial insights!<br>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
