@@ -1,6 +1,6 @@
 👋 Welcome to My GitHub Profile!
 # About Me
-I'm Abdelalli SAAID, a passionate software developer with a focus on creating practical solutions that improve daily life.<br>
+I'm Abdelalli SAAID, a passionate software engineer with a focus on creating practical solutions that improve daily life.<br>
 My journey in programming started during my first year of studies at ENSEM (École Nationale d'Électricité et de Mécanique), <br>
 and since then, I've been exploring various technologies and building meaningful projects.
 
