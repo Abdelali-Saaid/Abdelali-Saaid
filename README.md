@@ -1,5 +1,5 @@
 
-👋 Welcome to my Github profile
+👋 Welcome to my github profile
 # About Me
 I'm Abdelalli SAAID, a passionate software engineer with a focus on creating practical solutions that improve daily life.<br>
 My journey in programming started during my first year of studies at ENSEM (École Nationale Supérieur d'Électricité et de Mécanique), <br>
@@ -53,6 +53,8 @@ Feel free to reach out if you have any questions, ideas, or beneficial insights!
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelali-Saaid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Abdelali-Saaid&theme=dark&hide_border=false)<br>
 
+![Repo Views](https://views.whatilearened.today/views/github/Abdelali-Saaid/HD.svg)
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=Abdelali-Saaid&label=Profile%20Views&color=blue&style=flat)
 
 
 ---
