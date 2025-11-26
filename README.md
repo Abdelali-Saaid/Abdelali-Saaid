@@ -1,10 +1,8 @@
-👋 Welcome to My GitHub Profile!
+👋 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=500&center=true&width=550&lines=Welcome+to+my+GitHub+Universe!;Building+AI,+Web,+and+Embedded+Solutions;Security,+Integrity,+and+Innovation+First!)
 # About Me
 I'm Abdelalli SAAID, a passionate software engineer with a focus on creating practical solutions that improve daily life.<br>
 My journey in programming started during my first year of studies at ENSEM (École Nationale Supérieur d'Électricité et de Mécanique), <br>
 and since then, I've been exploring various technologies and building meaningful projects.
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=500&center=true&width=550&lines=Welcome+to+my+GitHub+Universe!;Building+AI,+Web,+and+Embedded+Solutions;Security,+Integrity,+and+Innovation+First!)
 
 ## What You'll Find Here
 - Projects: Explore my repositories for a variety of applications, tools, and experiments.
