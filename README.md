@@ -66,7 +66,7 @@ Feel free to reach out if you have any questions, ideas, or beneficial insights!
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Abdelali-Saaid&theme=dark&hide_border=false)<br>
 
 <!--![Repo Views](https://views.whatilearened.today/views/github/Abdelali-Saaid/HD.svg) -->
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=Abdelali-Saaid&label=Profile%20Views&color=blue&style=flat)
+<!-- ![GitHub Profile Views](https://komarev.com/ghpvc/?username=Abdelali-Saaid&label=Profile%20Views&color=blue&style=flat) -->
 
 
 ---
