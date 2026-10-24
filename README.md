@@ -15,8 +15,8 @@ and since then, I've been exploring various technologies and building meaningful
 - Improving accessibility and usability standards in software development.
 
 ## Let's Connect!
-- 🌐 Portfolio
-- 💼 LinkedIn : [linkedin.com/in/abdelali-saaid-4b0767244](https://www.linkedin.com/in/abdelali-saaid-4b0767244/)
+- 🌐 Portfolio : https://abdelalisaaid.com
+- 💼 LinkedIn : [linkedin.com/in/abdelali-saaid-4b0767244](https://www.linkedin.com/in/abdelali-saaid)
 - 📧 Gmail
 
 ## Get in Touch
